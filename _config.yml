@@ -18,11 +18,11 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 subtitle: Data Science <span style="color:#f58506"> Portfolio </span>
 location: "Ontario, Canada"
 resume_url: /docs/resume.docx
-avatar_image: /img/profile_picture.JPG
+avatar_image: /img/croped.jpg
 
 #-------------------------------
 # Contact links
-linkedln: "https://linkedln.com/#" # Add your linkedln handle
+linkedln: "https://linkedln.com/in/gomin-it" # Add your linkedln handle
 github: "https://gomin-george.github.io/"  # Add your github handle
 
 paginate: 6
@@ -51,6 +51,7 @@ defaults:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
 
 
 

@@ -22,7 +22,7 @@ avatar_image: /img/croped.jpg
 
 #-------------------------------
 # Contact links
-linkedln: "https://linkedln.com/in/gomin-it" # Add your linkedln handle
+linkedln: "https://linkedin.com/in/gomin-it" # Add your linkedln handle
 github: "https://gomin-george.github.io/"  # Add your github handle
 
 paginate: 6
@@ -51,6 +51,7 @@ defaults:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
 
 
 
